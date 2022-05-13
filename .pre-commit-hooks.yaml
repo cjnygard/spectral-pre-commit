@@ -1,6 +1,6 @@
 -   id: check-oas
     name: check-oas
-    entry: ./spectral-lint check
+    entry: ./spectral-lint.sh check
     language: script
     pass_filenames: true
     types_or: [json, yaml]
