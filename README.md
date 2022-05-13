@@ -11,7 +11,7 @@ Validates your OAS specifications.
 
 **Example Usage**
 ```yaml
-  - repo: https://github.com/pcipharmaservices/spectral-pre-commit
+  - repo: https://github.com/cjnygard/spectral-pre-commit
     rev: main (or specific tag version)
     hooks:
       - id: check-oas
