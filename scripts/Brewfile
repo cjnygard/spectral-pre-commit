@@ -1,0 +1,3 @@
+brew "pre-commit"
+brew "shellcheck"
+brew "shfmt"

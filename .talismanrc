@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: scripts/Brewfile.lock.json
+  checksum: c8f7b2a3815d7af897895329d6f6586051a2a25b02de8ba71675d4c57fcca536
+

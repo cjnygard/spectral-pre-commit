@@ -1,0 +1,7 @@
+-   id: check-oas
+    name: check-oas
+    entry: ./spectral-lint check
+    language: script
+    pass_filenames: true
+    types_or: [json, yaml]
+    stages: [commit]
